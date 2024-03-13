@@ -1,0 +1,53 @@
+[
+    {
+      "id": 123456,
+      "cover": "https://i.ibb.co/G5pcb5z/leaves-6975462-1920.png",
+      "title": "The Adventure Begins",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/gDWLzw4/beanie-2562646-640.jpg",
+      "posted_date": "2024-03-12",
+      "reading_time": 10,
+      "hashtags": ["Adventure", "Fantasy", "Journey"]
+    },
+    {
+      "id": 789012,
+      "cover": "https://i.ibb.co/7SwMy3X/forest-3833973-1920.jpg",
+      "title": "Cooking Delights",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/bX3Yb4H/man-4333898-640.jpg",
+      "posted_date": "2024-03-11",
+      "reading_time": 15,
+      "hashtags": ["Cooking", "Recipes", "Food"]
+    },
+    {
+      "id": 345678,
+      "cover": "https://i.ibb.co/VvvcRzY/man-1156619-1920.jpg",
+      "title": "Coding Essentials",
+      "author": "Michael Johnson",
+      "author_img": "https://i.ibb.co/xS5frcM/man-1690965-640.jpg",
+      "posted_date": "2024-03-10",
+      "reading_time": 20,
+      "hashtags": ["Coding", "Programming", "Tech"]
+    },
+    {
+      "id": 901234,
+      "cover": "https://i.ibb.co/5vcS1hk/cat-8243079-1920.jpg",
+      "title": "Gardening Tips",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/9WhwhML/man-1283231-640.jpg",
+      "posted_date": "2024-03-09",
+      "reading_time": 12,
+      "hashtags": ["Gardening", "Plants", "Outdoor"]
+    },
+    {
+      "id": 567890,
+      "cover": "https://i.ibb.co/KhJ94c2/mountains-5559241-1920.jpg",
+      "title": "Travel Diary",
+      "author": "David Wilson",
+      "author_img": "https://i.ibb.co/Mff7Qn8/man-3803551-640.jpg",
+      "posted_date": "2024-03-08",
+      "reading_time": 25,
+      "hashtags": ["Travel", "Adventure", "Explore"]
+    }
+  ]
+  
